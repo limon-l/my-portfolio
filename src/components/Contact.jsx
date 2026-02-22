@@ -1,6 +1,6 @@
 export default function Contact() {
   const handleEmailClick = () => {
-    window.location.href = "mailto:john@example.com";
+    window.location.href = "mailto:kabya@example.com";
   };
 
   const handlePhoneClick = () => {
